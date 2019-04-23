@@ -1,0 +1,23 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+E:\universidad\PROGRAMACION 1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+E:\universidad\PROGRAMACION 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+E:\universidad\PROGRAMACION 1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Form1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.MDIParent1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.Properties.Resources.resources
+C:\Users\Ligia Sarai Colocho\Desktop\Guia1P3\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.Cache
